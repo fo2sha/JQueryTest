@@ -1,0 +1,9 @@
+.imageItem{
+    float: left;
+    padding: 5px;
+    cursor: pointer;
+    
+}
+.imageItem:hover{
+    transform: scale(1.1);
+}

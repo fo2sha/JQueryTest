@@ -1,0 +1,11 @@
+h3{
+    display: none;
+}
+.col-md-4{
+    display: none;
+}
+.container-fluid{
+    background-color: darkgrey;
+    max-width: 5px;
+    height: 5px;
+}
